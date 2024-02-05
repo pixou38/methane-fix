@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Measuring Methane concentration with cheap sensors
@@ -9,7 +8,7 @@ tags:   UX design
 ---
 
 
-Selecting the right sensors for detecting low concentrations of methane is crucial for the success of your startup focused on reducing methane emissions. The choice of sensors depends on factors such as sensitivity, selectivity, cost, and the specific application. Here are some types of sensors commonly used for detecting low concentrations of methane:
+**Selecting the right sensors for detecting low concentrations of methane is crucial for the success of your startup focused on reducing methane emissions. The choice of sensors depends on factors such as sensitivity, selectivity, cost, and the specific application. Here are some types of sensors commonly used for detecting low concentrations of methane:**
 
 Infrared (IR) Gas Sensors:
 
