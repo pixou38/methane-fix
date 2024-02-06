@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Measuring Methane concentration with cheap sensors
+title:  How satellites imagery helps detect methane leaks
 date:   2017-05-26 10:05:55 +0300
 image:  /assets/images/blog/post-2.jpg
 author: uixgeek
