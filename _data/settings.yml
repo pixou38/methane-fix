@@ -5,11 +5,11 @@
 title: Methane Fix
 logo:
 author: themefisher
-description: this is meta description
+description: A blog and resources to help measure and monitor methane in order to fight climate change.
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
+#  - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Contact, link: "/contact" }
 
