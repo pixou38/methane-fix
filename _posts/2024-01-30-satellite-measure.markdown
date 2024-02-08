@@ -2,17 +2,23 @@
 layout: post
 title:  How satellites imagery helps detect methane leaks
 date:   2017-05-26 10:05:55 +0300
-image:  /assets/images/blog/post-2.jpg
+image:  /assets/images/blog/satellite-methane.jpg
 author: uixgeek
 tags:   UX design
 ---
 
-**Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.**
+**Satellites detect methane leaks by using sensors to capture infrared light reflecting off the Earth's surface. Methane absorbs specific wavelengths of this light, creating a distinct signature that satellites can identify with specialized algorithms. By analyzing this data, scientists can map and visualize methane emissions, track changes over time, and pinpoint sources of leaks.**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Satellites can detect methane leaks using a technique called remote sensing. Here's a simplified explanation of how it works:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Spectral Imaging: Satellites equipped with sensors are able to capture images of the Earth's surface. These sensors are capable of detecting different wavelengths of light, including those in the infrared spectrum.
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Methane Absorption: Methane absorbs specific wavelengths of light in the infrared spectrum. This means that when sunlight hits the Earth's surface and reflects back towards the satellite, the methane in the atmosphere absorbs certain wavelengths of the reflected light.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+* Detection Algorithm: Scientists use algorithms to analyze the data collected by the satellite sensors. These algorithms identify the specific signature of methane absorption in the collected data.
+
+* Mapping and Visualization: Once methane leaks are detected and located, the data can be mapped and visualized. This helps identify the sources of methane emissions, such as leaks from oil and gas infrastructure, landfills, agricultural activities, or natural sources like wetlands.
+
+* Monitoring Over Time: Satellites can make repeated passes over the same area, allowing for continuous monitoring of methane emissions over time. This can help track changes in emissions, identify trends, and assess the effectiveness of mitigation efforts.
+
+Overall, satellite-based methane detection provides a valuable tool for monitoring and managing methane emissions on a global scale, helping to address climate change and air quality concerns.
