@@ -32,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! Let's fight <br> Methane <br> today
+  hero-title: Hi! Let's fight <br> Methane's impact <br> on climate today
 
 social:
   - { icon: "ti-twitter", link: "#" }
