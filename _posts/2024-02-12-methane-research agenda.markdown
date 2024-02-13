@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Important paper review: Atmospheric methane removal: a research agenda
-date:   2017-05-26 10:05:55 +0300
+title:  "Important paper review: Atmospheric methane removal: a research agenda"
+date:   2024-02-12 10:05:55 +0300
 image:  /assets/images/blog/methaneplant.jpg
 author: uixgeek
 tags:   UX design
@@ -25,11 +25,11 @@ Unlike CO2 removal, there's no established research agenda for methane removal.
 ### The Call to Action
 
 The authors propose a research agenda for "negative methane emissions," including:
-**Direct removal technologies**: Explore methods like chemical or biological capture, filtration, and conversion to CO2.
-**Enhanced natural processes**: Investigate stimulating soil bacteria (methanotrophs) to break down atmospheric methane.
-**Modeling and assessment**: Develop models to evaluate the effectiveness, scalability, costs, and potential risks of different removal methods.
-**Social and ethical considerations**: Address issues like equity, governance, and potential unintended consequences of methane removal.
-**Integration and deployment:** Plan for integrating removal technologies with mitigation strategies and responsible deployment.
+- **Direct removal technologies** Explore methods like chemical or biological capture, filtration, and conversion to CO2.
+- **Enhanced natural processes** Investigate stimulating soil bacteria (methanotrophs) to break down atmospheric methane.
+- **Modeling and assessment**Develop models to evaluate the effectiveness, scalability, costs, and potential risks of different removal methods.
+- **Social and ethical considerations**: Address issues like equity, governance, and potential unintended consequences of methane removal.
+- **Integration and deployment:** Plan for integrating removal technologies with mitigation strategies and responsible deployment.
 
 ### Key Arguments
 
