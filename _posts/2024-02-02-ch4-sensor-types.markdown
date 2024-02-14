@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  The different types of sensor for Methane monitoring
-date:   2017-05-26 10:05:55 +0300
+date:   2024-02-02 10:05:55 +0300
 image:  /assets/images/blog/sensors.jpg
 author: uixgeek
-tags:   UX design
+tags:   sensor
 ---
 
 

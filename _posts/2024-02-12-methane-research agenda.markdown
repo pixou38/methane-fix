@@ -4,7 +4,7 @@ title:  "Important paper review: Atmospheric methane removal: a research agenda"
 date:   2024-02-12 10:05:55 +0300
 image:  /assets/images/blog/methaneplant.jpg
 author: uixgeek
-tags:   UX design
+tags:   removal
 ---
 
 **An important paper on Methane removal was published in 2001 by Robert B. Jackson & al. We're reviewing it here. Methane poses a major threat due to its high warming potential and increasing atmospheric concentration. Mitigating emissions is crucial, but uncertainties and potential for sudden releases necessitate additional strategies. Existing research focuses heavily on CO2 removal; a dedicated agenda for methane removal is lacking.**
@@ -13,9 +13,10 @@ The article, titled "Atmospheric methane removal: a research agenda", found ther
 
 ### The Problem
 
-Methane is a potent greenhouse gas, contributing significantly to global warming.
+Methane is a potent greenhouse gas, contributing significantly to global warming. It didn't get as much attention as CO2 because the amount of methane emission is much smaller, but it has a significant impact (for a given amount of gas, it has a greenhouse effect 80 times more potent than CO2).
+
 While reducing emissions is crucial, achieving zero emissions might be impossible, especially in sectors like agriculture.
-Sudden, large methane releases are also possible, like from the Arctic.
+Sudden, large methane releases are also possible, like from the Arctic with the permafrost releasing it.
 
 ### The Solution
 
@@ -38,6 +39,7 @@ While uncertainties exist, proactive research is crucial to develop safe and eff
 Early investment can overcome technical challenges and ensure responsible development and deployment.
 
 ### Conclusion
+
 The article emphasizes the urgency of action due to the accelerating growth of atmospheric methane.
 It acknowledges the potential limitations of specific removal methods and highlights the need for a diverse portfolio.
 The authors call for international collaboration and open communication to ensure research progress and responsible governance.
