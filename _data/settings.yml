@@ -193,16 +193,20 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
+    text: ""
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
       - type: "branding"
+    text: ""
+
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
       - type: "illustration"
+    text: ""
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
@@ -224,6 +228,8 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "branding"
+    text: ""
+
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
@@ -231,11 +237,13 @@ portfolio-items:
       - type: "design"
       - type: "illustration"
       - type: "branding"
+    text: ""
 
   - image: "assets/images/portfolio/item-7.png"
     url: "#"
     portfolio-type:
       - type: "illustration"
+    text: ""
 
 #-------------------------------
 # Testimonials Section
