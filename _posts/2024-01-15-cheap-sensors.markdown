@@ -3,7 +3,7 @@ layout: post
 title:  Measuring Methane concentration with cheap sensors
 date:   2017-05-26 10:05:55 +0300
 image:  /assets/images/blog/oil_refinery.jpg
-author: uixgeek
+author: methanefix
 tags:   sensor
 ---
 

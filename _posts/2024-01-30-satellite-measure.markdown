@@ -3,7 +3,7 @@ layout: post
 title:  How satellites imagery helps detect methane leaks
 date:   2017-05-26 10:05:55 +0300
 image:  /assets/images/blog/satellite-methane.jpg
-author: uixgeek
+author: methanefix
 tags:   sensor
 ---
 
@@ -32,3 +32,8 @@ Once methane leaks are detected and located, the data can be mapped and visualiz
 Satellites can make repeated passes over the same area, allowing for continuous monitoring of methane emissions over time. This can help track changes in emissions, identify trends, and assess the effectiveness of mitigation efforts.
 
 Overall, satellite-based methane detection provides a valuable tool for monitoring and managing methane emissions on a global scale, helping to address climate change and air quality concerns.
+
+#### Resources and links for free methane satellite images
+
+**EU Sentinel-5P images**: 
+The EU is publishing free images from satellites Sentinel-5P with a dedicated instrument for methane detection called TROPOMI. The Netherlands Space Research Center is crunching those images to detect methane plumes and they publish it every week there https://earth.sron.nl/methane-emissions/.
