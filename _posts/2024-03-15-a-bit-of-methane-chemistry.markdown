@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Important paper review: Atmospheric methane removal: a research agenda"
-date:   2024-02-12 10:05:55 +0300
+title:  "A bit of Methane atmospheric chemistry"
+date:   2024-03-15 10:05:55 +0300
 image:  /assets/images/blog/methaneplant.jpg
 author: methanefix
 tags:   removal

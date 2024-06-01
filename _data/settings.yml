@@ -193,7 +193,7 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "illustration"
-    text: ""
+    text: "Google is making a map of methane leaks for the whole world to see"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
