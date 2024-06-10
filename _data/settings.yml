@@ -8,6 +8,8 @@ author: themefisher
 description: A blog and resources to help measure and monitor methane in order to fight climate change.
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
+twitter: twitter
+
 menu:
 #  - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
@@ -183,9 +185,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "sensors/monitoring", type: "monitoring" }
+  - { title: "methane chemistry", type: "chemistry" }
+  - { title: "abatement", type: "abatement" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
