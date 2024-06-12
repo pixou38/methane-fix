@@ -1,5 +1,5 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.methanefix.tech" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename
 
 include:
   - _pages
