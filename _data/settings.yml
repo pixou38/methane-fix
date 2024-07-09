@@ -13,7 +13,7 @@ twitter: twitter
 menu:
 #  - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Resources, link: "/portfolio" }
+  - { name: Resources, link: "/resources" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
